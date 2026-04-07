@@ -1,0 +1,7 @@
+data/
+*.soft.gz
+*.pkl
+__pycache__/
+.ipynb_checkpoints/
+anaconda_projects/
+*.db
