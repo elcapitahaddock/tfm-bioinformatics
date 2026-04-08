@@ -166,16 +166,17 @@ conda activate tfm_bio
 
 jupyter notebook
 
-## Abrir:
+Abrir:
 Pipeline.ipynb
 
-## Estructura del proyecto
+Estructura del proyecto
 tfm-bioinformatics/
 ├── Pipeline.ipynb
 ├── README.md
 ├── environment.yml
-└── roc.png
-## Autor
+
+Autor
 
 Pedro Valenzuela
 TFM Bioinformática y Bioestadística
+```
